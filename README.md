@@ -6,8 +6,14 @@
 </div>
 
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/96381826?s=400&u=3c4bbfd4bc87d382fc3d57fad3ad623d7137781b&v=4" width="120" height="120" style="border-radius: 50%;" />
+</div>
 
-  [![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1800&color=1D9E75&center=true&vCenter=true&width=500&lines=Building+scalable+APIs+%26+cloud-native+apps;Full-Stack+%C2%B7+Backend+%C2%B7+DevOps+%C2%B7+AI;Turning+ideas+into+production-ready+products)](https://git.io/typing-svg](https://avatars.githubusercontent.com/u/96381826?s=400&u=3c4bbfd4bc87d382fc3d57fad3ad623d7137781b&v=4))
+<br/>
+
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1800&color=1D9E75&center=true&vCenter=true&width=500&lines=Building+scalable+APIs+%26+cloud-native+apps;Full-Stack+%C2%B7+Backend+%C2%B7+DevOps+%C2%B7+AI;Turning+ideas+into+production-ready+products)](https://git.io/typing-svg)
 
 </div>
 
