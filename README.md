@@ -1,9 +1,4 @@
 <!-- Header -->
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header&text=Mohaned%20Aouni&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Backend%20%26%20Full-Stack%20Engineer&descAlignY=85&descSize=14" width="100%"/>
-
-</div>
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/96381826?s=400&u=3c4bbfd4bc87d382fc3d57fad3ad623d7137781b&v=4" width="120" height="120" style="border-radius: 50%;" />
